@@ -385,7 +385,7 @@ def parse_setuppy_commands():
     # below and not standalone.  Hence they're not added to good_commands.
     good_commands = ('develop', 'sdist', 'build', 'build_ext', 'build_py',
                      'build_clib', 'build_scripts', 'bdist_wheel', 'bdist_rpm',
-                     'bdist_wininst', 'bdist_msi', 'bdist_mpkg')
+                     'bdist_wininst', 'bdist_msi', 'bdist_mpkg', 'config')
 
     for command in good_commands:
         if command in args:

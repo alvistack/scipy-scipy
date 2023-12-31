@@ -1,0 +1,4 @@
+python-scipy source: no-debian-changes
+python-scipy source: source-contains-prebuilt-windows-binary
+python-scipy source: source-is-missing
+python-scipy source: source-package-encodes-python-version

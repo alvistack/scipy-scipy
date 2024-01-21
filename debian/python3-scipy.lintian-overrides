@@ -1,0 +1,4 @@
+python3-scipy: copyright-without-copyright-notice
+python3-scipy: initial-upload-closes-no-bugs
+python3-scipy: no-manual-page
+python3-scipy: zero-byte-file-in-doc-directory

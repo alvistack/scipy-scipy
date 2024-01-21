@@ -1,0 +1,5 @@
+python-scipy (100:1.15.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/scipy/scipy/releases/tag/v1.15.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 17 Feb 2025 16:47:39 +0800
